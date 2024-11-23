@@ -56,6 +56,7 @@ StyleSheet do React Native
 Feedback Visual:
 
 ActivityIndicator
+
 ✅ Requisitos Atendidos
 
 ✅ Página de Login com validação e autenticação.
