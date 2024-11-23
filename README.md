@@ -15,6 +15,8 @@ Um aplicativo completo para gestão de e-commerce com foco em bebidas, desenvolv
 
 - SAMUEL TELDISON SERAFIM SILVA DE OLIVEIRA
 
+
+
 🛠 Funcionalidades
 Página de Login 🔒
 
