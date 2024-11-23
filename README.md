@@ -57,14 +57,23 @@ Feedback Visual:
 
 ActivityIndicator
 ✅ Requisitos Atendidos
+
 ✅ Página de Login com validação e autenticação.
+
 ✅ Dois tipos de navegação (Stack e Tab).
+
 ✅ Exibição de produtos com FlatList.
+
 ✅ Filtro dinâmico de produtos.
+
 ✅ Página de detalhes de produto com opção de edição.
+
 ✅ CRUD completo com validação e feedback visual.
+
 ✅ Loading e mensagens de confirmação.
+
 ✅ Página com informações dos integrantes.
+
 📚 Licença
 Este projeto está licenciado sob a MIT License.
 Sinta-se à vontade para utilizar e contribuir!
